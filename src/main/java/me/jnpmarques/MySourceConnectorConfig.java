@@ -1,4 +1,4 @@
-package pt.altice;
+package me.jnpmarques;
 
 import org.apache.kafka.common.config.AbstractConfig;
 import org.apache.kafka.common.config.ConfigDef;

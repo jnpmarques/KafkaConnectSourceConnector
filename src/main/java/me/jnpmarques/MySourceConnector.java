@@ -1,4 +1,4 @@
-package pt.altice;
+package me.jnpmarques;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -24,7 +24,7 @@ public class MySourceConnector extends SourceConnector {
   @Override
   public void start(Map<String, String> map) {
     config = new MySourceConnectorConfig(map);
-    System.out.println("Starting Salesforce Connector. My setting is: " + config.getMy());
+    System.out.println("Starting Connector. My setting is: " + config.getMy());
   }
 
   @Override

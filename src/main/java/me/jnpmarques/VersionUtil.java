@@ -1,4 +1,4 @@
-package pt.altice;
+package me.jnpmarques;
 
 /**
  * Created by jeremy on 5/3/16.

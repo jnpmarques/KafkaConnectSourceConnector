@@ -1,4 +1,4 @@
-package pt.altice;
+package me.jnpmarques;
 
 import org.junit.Test;
 
